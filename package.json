@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"marked": "^13.0.3",
+		"marked-highlight": "^2.1.3"
+	}
+}
